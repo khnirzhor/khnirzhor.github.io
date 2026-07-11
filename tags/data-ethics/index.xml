@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Data Ethics on Kamrul Hassan Nirzhor Profile</title>
+		<link>/tags/data-ethics/</link>
+		<description>Recent content in Data Ethics on Kamrul Hassan Nirzhor Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/tags/data-ethics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>When Anonymous Isn&#39;t Anonymous: Ethical Flaws in a Course Evaluation Survey</title>
+				<link>/blogs/course-survey-ethics/</link>
+				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>/blogs/course-survey-ethics/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Course evaluation surveys can be useful tools for improving education, but only if the information is collected honestly, fairly, and responsibly. In this scenario, students complete a ten-question survey that is described as anonymous, yet they must first log in with their organizational username and password. Management then plans to use the results to decide which courses need to be redesigned.&lt;/p&gt;&#xA;&lt;p&gt;On the surface this looks like a routine feedback process. Underneath, it raises ethical concerns involving anonymity, &lt;strong&gt;informed consent&lt;/strong&gt;, transparency, privacy, fairness, and data quality. The sample question itself also creates problems that could make the results unreliable. If students do not trust the survey, the data will not reflect their real experiences.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
