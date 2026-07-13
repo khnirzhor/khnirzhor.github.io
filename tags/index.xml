@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Kamrul Hassan Nirzhor Profile</title>
-		<link>/tags/</link>
+		<link>//localhost:1313/tags/</link>
 		<description>Recent content in Tags on Kamrul Hassan Nirzhor Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,28 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AI Ethics</title>
+				<link>//localhost:1313/tags/ai-ethics/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/tags/ai-ethics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Case Study</title>
+				<link>//localhost:1313/tags/case-study/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/tags/case-study/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Real Estate</title>
+				<link>//localhost:1313/tags/real-estate/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/tags/real-estate/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Data Ethics</title>
-				<link>/tags/data-ethics/</link>
+				<link>//localhost:1313/tags/data-ethics/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/data-ethics/</guid>
+				<guid>//localhost:1313/tags/data-ethics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Privacy</title>
-				<link>/tags/privacy/</link>
+				<link>//localhost:1313/tags/privacy/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/privacy/</guid>
+				<guid>//localhost:1313/tags/privacy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Surveys</title>
-				<link>/tags/surveys/</link>
+				<link>//localhost:1313/tags/surveys/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/surveys/</guid>
+				<guid>//localhost:1313/tags/surveys/</guid>
 				<description></description>
 			</item>
 	</channel>

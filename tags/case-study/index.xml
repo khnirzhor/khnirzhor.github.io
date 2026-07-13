@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Case Study on Kamrul Hassan Nirzhor Profile</title>
+		<link>//localhost:1313/tags/case-study/</link>
+		<description>Recent content in Case Study on Kamrul Hassan Nirzhor Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Algorithm Said Your House Is Worth What? Bias, Accountability, and the Limits of AI Property Valuation</title>
+				<link>//localhost:1313/blogs/ai-property-valuation-ethics/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/blogs/ai-property-valuation-ethics/</guid>
+				<description>&lt;p&gt;Imagine checking an online real estate platform and discovering that an algorithm has valued your home tens of thousands of dollars below what similar properties are selling for in your neighbourhood. You know your house has a finished basement, a renovated kitchen, and a premium lot, but the computer treats it like every other house on the street. Now imagine the opposite: the algorithm overvalues the home, a company buys it based on that estimate, and later realizes it cannot resell the property without taking a loss.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
